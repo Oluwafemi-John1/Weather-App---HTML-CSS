@@ -1,0 +1,1 @@
+A weather application made with HTML, CSS and JS. Images were gotten from pexels.com. Bootstrap was used as a CSS library
