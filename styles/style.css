@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+@media screen and (min-width: 992px) {
+    body {
+        background: url('../images/picBack.jpg');
+        background-size: cover;
+    }
+}
