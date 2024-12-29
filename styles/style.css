@@ -25,11 +25,12 @@
 
     .tempDetails {
         border: 2px solid #f00;
+        /* transform: translate(100px, 500px); */
+        margin: 600px 0px 100px 50px;
     }
     
     .tempDetails h2 {
         font-size: 5rem;
         font-weight: 900;
-        transform: translate(100px, 500px);
     }
 }
