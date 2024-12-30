@@ -1,0 +1,6 @@
+@media screen and (max-width: 478px) {
+    body {
+        background: url('../images/picBack.jpg');
+        background-size: cover;
+    }
+}
